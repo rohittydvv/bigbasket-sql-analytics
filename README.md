@@ -6,7 +6,7 @@ End-to-end SQL analytics project using BigBasket quick commerce transactional da
 
 ## 🏗️ Data Architecture
 
-diagrams/data_architecture.png
+(diagrams/data_architecture.png)
 
 **Bronze Layer:** Raw CSV data ingestion, all fields as-is for traceability.  
 **Silver Layer:** Cleansed, standardized tables with derived columns and validated business logic.  
@@ -29,7 +29,7 @@ This project analyzes real-world BigBasket quick-commerce data using SQL Server,
 
 ## 🧩 Entity Relationship (ER) Diagram
 
-diagrams/ER_diagram.png
+(diagrams/ER_diagram.png)
 
 ---
 
